@@ -1,0 +1,534 @@
+fileFormatVersion: 2
+guid: 9c74cd35b4a1ce44fb09cd59f4e5f020
+timeCreated: 1456408709
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ammo1
+    100002: ammo2
+    100004: ammo3
+    100006: ammo4
+    100008: ammo5
+    100010: base1
+    100012: base4
+    100014: base5
+    100016: base6
+    100018: handle1
+    100020: handle2
+    100022: handle3
+    100024: handle4
+    100026: handleend
+    100028: Mesh
+    100030: muzzle1
+    100032: muzzle2
+    100034: muzzleend
+    100036: //RootNode
+    100038: PlasmaGrenadeLauncher 1
+    100040: PlasmaGrenadeLauncherModel
+    100042: Rig
+    100044: root
+    100046: side1
+    100048: side2
+    100050: side3
+    100052: side4
+    100054: side5
+    100056: side6
+    100058: GrenadegunAnim_0025:ammo1
+    100060: GrenadegunAnim_0025:ammo2
+    100062: GrenadegunAnim_0025:ammo3
+    100064: GrenadegunAnim_0025:ammo4
+    100066: GrenadegunAnim_0025:ammo5
+    100068: GrenadegunAnim_0025:base1
+    100070: GrenadegunAnim_0025:base4
+    100072: GrenadegunAnim_0025:base5
+    100074: GrenadegunAnim_0025:base6
+    100076: GrenadegunAnim_0025:handle1
+    100078: GrenadegunAnim_0025:handle2
+    100080: GrenadegunAnim_0025:handle3
+    100082: GrenadegunAnim_0025:handle4
+    100084: GrenadegunAnim_0025:handleend
+    100086: GrenadegunAnim_0025:muzzle1
+    100088: GrenadegunAnim_0025:muzzle2
+    100090: GrenadegunAnim_0025:muzzleend
+    100092: GrenadegunAnim_0025:PlasmaGrenadeLauncher
+    100094: GrenadegunAnim_0025:Rig
+    100096: GrenadegunAnim_0025:root
+    100098: GrenadegunAnim_0025:side1
+    100100: GrenadegunAnim_0025:side2
+    100102: GrenadegunAnim_0025:side3
+    100104: GrenadegunAnim_0025:side4
+    100106: GrenadegunAnim_0025:side5
+    100108: GrenadegunAnim_0025:side6
+    100110: PlasmaGrenadeLauncher
+    400000: ammo1
+    400002: ammo2
+    400004: ammo3
+    400006: ammo4
+    400008: ammo5
+    400010: base1
+    400012: base4
+    400014: base5
+    400016: base6
+    400018: handle1
+    400020: handle2
+    400022: handle3
+    400024: handle4
+    400026: handleend
+    400028: Mesh
+    400030: muzzle1
+    400032: muzzle2
+    400034: muzzleend
+    400036: //RootNode
+    400038: PlasmaGrenadeLauncher 1
+    400040: PlasmaGrenadeLauncherModel
+    400042: Rig
+    400044: root
+    400046: side1
+    400048: side2
+    400050: side3
+    400052: side4
+    400054: side5
+    400056: side6
+    400058: GrenadegunAnim_0025:ammo1
+    400060: GrenadegunAnim_0025:ammo2
+    400062: GrenadegunAnim_0025:ammo3
+    400064: GrenadegunAnim_0025:ammo4
+    400066: GrenadegunAnim_0025:ammo5
+    400068: GrenadegunAnim_0025:base1
+    400070: GrenadegunAnim_0025:base4
+    400072: GrenadegunAnim_0025:base5
+    400074: GrenadegunAnim_0025:base6
+    400076: GrenadegunAnim_0025:handle1
+    400078: GrenadegunAnim_0025:handle2
+    400080: GrenadegunAnim_0025:handle3
+    400082: GrenadegunAnim_0025:handle4
+    400084: GrenadegunAnim_0025:handleend
+    400086: GrenadegunAnim_0025:muzzle1
+    400088: GrenadegunAnim_0025:muzzle2
+    400090: GrenadegunAnim_0025:muzzleend
+    400092: GrenadegunAnim_0025:PlasmaGrenadeLauncher
+    400094: GrenadegunAnim_0025:Rig
+    400096: GrenadegunAnim_0025:root
+    400098: GrenadegunAnim_0025:side1
+    400100: GrenadegunAnim_0025:side2
+    400102: GrenadegunAnim_0025:side3
+    400104: GrenadegunAnim_0025:side4
+    400106: GrenadegunAnim_0025:side5
+    400108: GrenadegunAnim_0025:side6
+    400110: PlasmaGrenadeLauncher
+    4300000: PlasmaGrenadeLauncher
+    7400000: PlasmaFire
+    7400002: PlasmaChargeLoop
+    7400004: PlasmaCoolDown
+    7400006: PlasmaIdle
+    9500000: //RootNode
+    13700000: PlasmaGrenadeLauncher 1
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: PlasmaChargeLoop
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Mesh
+        weight: 1
+      - path: Mesh/PlasmaGrenadeLauncherModel
+        weight: 1
+      - path: Mesh/PlasmaGrenadeLauncherModel/PlasmaGrenadeLauncher 1
+        weight: 1
+      - path: Rig
+        weight: 1
+      - path: Rig/root
+        weight: 1
+      - path: Rig/root/base1
+        weight: 1
+      - path: Rig/root/base1/ammo1
+        weight: 1
+      - path: Rig/root/base1/base4
+        weight: 1
+      - path: Rig/root/base1/base4/ammo2
+        weight: 1
+      - path: Rig/root/base1/base4/base5
+        weight: 1
+      - path: Rig/root/base1/base4/base5/ammo3
+        weight: 1
+      - path: Rig/root/base1/base4/base5/base6
+        weight: 1
+      - path: Rig/root/base1/base4/base5/base6/ammo4
+        weight: 1
+      - path: Rig/root/base1/base4/base5/base6/ammo5
+        weight: 1
+      - path: Rig/root/base1/base4/base5/base6/handle1
+        weight: 1
+      - path: Rig/root/base1/base4/base5/base6/handle1/handle2
+        weight: 1
+      - path: Rig/root/base1/base4/base5/base6/handle1/handle2/handle3
+        weight: 1
+      - path: Rig/root/base1/base4/base5/base6/handle1/handle2/handle3/handle4
+        weight: 1
+      - path: Rig/root/base1/base4/base5/base6/handle1/handle2/handle3/handle4/handleend
+        weight: 1
+      - path: Rig/root/base1/base4/base5/base6/side1
+        weight: 1
+      - path: Rig/root/base1/base4/base5/base6/side2
+        weight: 1
+      - path: Rig/root/base1/base4/side3
+        weight: 1
+      - path: Rig/root/base1/base4/side4
+        weight: 1
+      - path: Rig/root/base1/muzzle1
+        weight: 1
+      - path: Rig/root/base1/muzzle1/muzzle2
+        weight: 1
+      - path: Rig/root/base1/muzzle1/muzzle2/muzzleend
+        weight: 1
+      - path: Rig/root/base1/side5
+        weight: 1
+      - path: Rig/root/base1/side6
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PlasmaFire
+      takeName: Take 001
+      firstFrame: 31
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Mesh
+        weight: 1
+      - path: Mesh/PlasmaGrenadeLauncherModel
+        weight: 1
+      - path: Mesh/PlasmaGrenadeLauncherModel/PlasmaGrenadeLauncher 1
+        weight: 1
+      - path: Rig
+        weight: 1
+      - path: Rig/root
+        weight: 1
+      - path: Rig/root/base1
+        weight: 1
+      - path: Rig/root/base1/ammo1
+        weight: 1
+      - path: Rig/root/base1/base4
+        weight: 1
+      - path: Rig/root/base1/base4/ammo2
+        weight: 1
+      - path: Rig/root/base1/base4/base5
+        weight: 1
+      - path: Rig/root/base1/base4/base5/ammo3
+        weight: 1
+      - path: Rig/root/base1/base4/base5/base6
+        weight: 1
+      - path: Rig/root/base1/base4/base5/base6/ammo4
+        weight: 1
+      - path: Rig/root/base1/base4/base5/base6/ammo5
+        weight: 1
+      - path: Rig/root/base1/base4/base5/base6/handle1
+        weight: 1
+      - path: Rig/root/base1/base4/base5/base6/handle1/handle2
+        weight: 1
+      - path: Rig/root/base1/base4/base5/base6/handle1/handle2/handle3
+        weight: 1
+      - path: Rig/root/base1/base4/base5/base6/handle1/handle2/handle3/handle4
+        weight: 1
+      - path: Rig/root/base1/base4/base5/base6/handle1/handle2/handle3/handle4/handleend
+        weight: 1
+      - path: Rig/root/base1/base4/base5/base6/side1
+        weight: 1
+      - path: Rig/root/base1/base4/base5/base6/side2
+        weight: 1
+      - path: Rig/root/base1/base4/side3
+        weight: 1
+      - path: Rig/root/base1/base4/side4
+        weight: 1
+      - path: Rig/root/base1/muzzle1
+        weight: 1
+      - path: Rig/root/base1/muzzle1/muzzle2
+        weight: 1
+      - path: Rig/root/base1/muzzle1/muzzle2/muzzleend
+        weight: 1
+      - path: Rig/root/base1/side5
+        weight: 1
+      - path: Rig/root/base1/side6
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PlasmaCoolDown
+      takeName: Take 001
+      firstFrame: 61
+      lastFrame: 88
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Mesh
+        weight: 1
+      - path: Mesh/PlasmaGrenadeLauncherModel
+        weight: 1
+      - path: Mesh/PlasmaGrenadeLauncherModel/PlasmaGrenadeLauncher 1
+        weight: 1
+      - path: Rig
+        weight: 1
+      - path: Rig/root
+        weight: 1
+      - path: Rig/root/base1
+        weight: 1
+      - path: Rig/root/base1/ammo1
+        weight: 1
+      - path: Rig/root/base1/base4
+        weight: 1
+      - path: Rig/root/base1/base4/ammo2
+        weight: 1
+      - path: Rig/root/base1/base4/base5
+        weight: 1
+      - path: Rig/root/base1/base4/base5/ammo3
+        weight: 1
+      - path: Rig/root/base1/base4/base5/base6
+        weight: 1
+      - path: Rig/root/base1/base4/base5/base6/ammo4
+        weight: 1
+      - path: Rig/root/base1/base4/base5/base6/ammo5
+        weight: 1
+      - path: Rig/root/base1/base4/base5/base6/handle1
+        weight: 1
+      - path: Rig/root/base1/base4/base5/base6/handle1/handle2
+        weight: 1
+      - path: Rig/root/base1/base4/base5/base6/handle1/handle2/handle3
+        weight: 1
+      - path: Rig/root/base1/base4/base5/base6/handle1/handle2/handle3/handle4
+        weight: 1
+      - path: Rig/root/base1/base4/base5/base6/handle1/handle2/handle3/handle4/handleend
+        weight: 1
+      - path: Rig/root/base1/base4/base5/base6/side1
+        weight: 1
+      - path: Rig/root/base1/base4/base5/base6/side2
+        weight: 1
+      - path: Rig/root/base1/base4/side3
+        weight: 1
+      - path: Rig/root/base1/base4/side4
+        weight: 1
+      - path: Rig/root/base1/muzzle1
+        weight: 1
+      - path: Rig/root/base1/muzzle1/muzzle2
+        weight: 1
+      - path: Rig/root/base1/muzzle1/muzzle2/muzzleend
+        weight: 1
+      - path: Rig/root/base1/side5
+        weight: 1
+      - path: Rig/root/base1/side6
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PlasmaIdle
+      takeName: Take 001
+      firstFrame: 89
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Mesh
+        weight: 1
+      - path: Mesh/PlasmaGrenadeLauncherModel
+        weight: 1
+      - path: Mesh/PlasmaGrenadeLauncherModel/PlasmaGrenadeLauncher 1
+        weight: 1
+      - path: Rig
+        weight: 1
+      - path: Rig/root
+        weight: 1
+      - path: Rig/root/base1
+        weight: 1
+      - path: Rig/root/base1/ammo1
+        weight: 1
+      - path: Rig/root/base1/base4
+        weight: 1
+      - path: Rig/root/base1/base4/ammo2
+        weight: 1
+      - path: Rig/root/base1/base4/base5
+        weight: 1
+      - path: Rig/root/base1/base4/base5/ammo3
+        weight: 1
+      - path: Rig/root/base1/base4/base5/base6
+        weight: 1
+      - path: Rig/root/base1/base4/base5/base6/ammo4
+        weight: 1
+      - path: Rig/root/base1/base4/base5/base6/ammo5
+        weight: 1
+      - path: Rig/root/base1/base4/base5/base6/handle1
+        weight: 1
+      - path: Rig/root/base1/base4/base5/base6/handle1/handle2
+        weight: 1
+      - path: Rig/root/base1/base4/base5/base6/handle1/handle2/handle3
+        weight: 1
+      - path: Rig/root/base1/base4/base5/base6/handle1/handle2/handle3/handle4
+        weight: 1
+      - path: Rig/root/base1/base4/base5/base6/handle1/handle2/handle3/handle4/handleend
+        weight: 1
+      - path: Rig/root/base1/base4/base5/base6/side1
+        weight: 1
+      - path: Rig/root/base1/base4/base5/base6/side2
+        weight: 1
+      - path: Rig/root/base1/base4/side3
+        weight: 1
+      - path: Rig/root/base1/base4/side4
+        weight: 1
+      - path: Rig/root/base1/muzzle1
+        weight: 1
+      - path: Rig/root/base1/muzzle1/muzzle2
+        weight: 1
+      - path: Rig/root/base1/muzzle1/muzzle2/muzzleend
+        weight: 1
+      - path: Rig/root/base1/side5
+        weight: 1
+      - path: Rig/root/base1/side6
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
